@@ -318,22 +318,22 @@ INSERT INTO public.planet VALUES (1, 'earth', NULL, false, 1);
 INSERT INTO public.planet VALUES (2, 'mars', NULL, false, 1);
 INSERT INTO public.planet VALUES (3, 'neptune', NULL, false, 1);
 INSERT INTO public.planet VALUES (4, 'jupiter', NULL, false, 1);
-INSERT INTO public.planet VALUES (5, 'unarnus', NULL, false, 1);
+INSERT INTO public.planet VALUES (5, 'uranus', NULL, false, 1);
 INSERT INTO public.planet VALUES (6, 'venus', NULL, false, 1);
 INSERT INTO public.planet VALUES (7, 'mercury', NULL, false, 1);
 INSERT INTO public.planet VALUES (8, 'saturn', NULL, false, 1);
 INSERT INTO public.planet VALUES (9, 'pluto', NULL, false, 1);
-INSERT INTO public.planet VALUES (10, 'yolo', NULL, false, 1);
+INSERT INTO public.planet VALUES (10, 'joe', NULL, false, 1);
 INSERT INTO public.planet VALUES (11, 'jalala', NULL, false, 2);
-INSERT INTO public.planet VALUES (12, 'malala', NULL, false, 2);
-INSERT INTO public.planet VALUES (13, 'kento', NULL, false, 3);
+INSERT INTO public.planet VALUES (12, 'kamala', NULL, false, 2);
+INSERT INTO public.planet VALUES (13, 'donald', NULL, false, 3);
 
 
 --
 -- Data for Name: star; Type: TABLE DATA; Schema: public; Owner: freecodecamp
 --
 
-INSERT INTO public.star VALUES (1, 123461234, 'red', 'beatlejuice', 1);
+INSERT INTO public.star VALUES (1, 123461234, 'red', 'hunter', 1);
 INSERT INTO public.star VALUES (2, 123461234, 'yellow', 'joe', 1);
 INSERT INTO public.star VALUES (3, 123461234, 'yellow', 'gary', 1);
 INSERT INTO public.star VALUES (4, 123461234, 'yellow', 'big yellow', 1);
