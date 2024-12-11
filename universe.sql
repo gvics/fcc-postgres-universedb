@@ -276,7 +276,7 @@ INSERT INTO public.dark VALUES (3, NULL, NULL, false, 'bh3');
 -- Data for Name: galaxy; Type: TABLE DATA; Schema: public; Owner: freecodecamp
 --
 
-INSERT INTO public.galaxy VALUES (1, NULL, NULL, 'andromeda', 100000);
+INSERT INTO public.galaxy VALUES (1, NULL, NULL, 'galaxy1', 100000);
 INSERT INTO public.galaxy VALUES (2, NULL, NULL, 'galaxy2', 100000);
 INSERT INTO public.galaxy VALUES (3, NULL, NULL, 'galaxy3', 100000);
 INSERT INTO public.galaxy VALUES (4, NULL, NULL, 'galaxy4', 100000);
