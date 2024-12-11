@@ -124,7 +124,7 @@ ALTER SEQUENCE public.galaxy_galaxy_id_seq OWNED BY public.galaxy.galaxy_id;
 CREATE TABLE public.moon (
     moon_id integer NOT NULL,
     name character varying(255) NOT NULL,
-    has_water boolean NOT NULL,
+    has_life boolean NOT NULL,
     planet_id integer NOT NULL,
     name_code character varying(255) NOT NULL
 );
